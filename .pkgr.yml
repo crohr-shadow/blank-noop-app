@@ -6,4 +6,5 @@ targets:
   ubuntu-14.04:
     build_dependencies:
       - curl
+  doesnotexist:
 maintainer: hello@example.com
