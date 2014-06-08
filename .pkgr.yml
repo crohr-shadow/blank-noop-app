@@ -1,3 +1,0 @@
-buildpack: https://github.com/pkgr/pkgr-noop-buildpack
-before_install: scripts/preinstall
-after_install: scripts/postinstall
